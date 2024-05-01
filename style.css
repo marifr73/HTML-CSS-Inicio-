@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background: black;
+    background: pink;
 }
 .conteudo {
     max-width: 1200px;
@@ -22,7 +22,7 @@ ul{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px #202020 solid;
+    border-bottom: 1px #ff83cb solid;
 }
 .menu {
     display: flex;
